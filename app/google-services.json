@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366818611597",
+    "project_id": "amshop-1c328",
+    "storage_bucket": "amshop-1c328.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366818611597:android:7e7925c1def97dd5856dc4",
+        "android_client_info": {
+          "package_name": "org.swu.aeymai.amshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366818611597-k7p4k6kvirgsvc0m7vuid56vgvodv8oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYY_WaKiNBKA_o-1ZxChEUslhit27lLXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366818611597-k7p4k6kvirgsvc0m7vuid56vgvodv8oi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
